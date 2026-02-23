@@ -1,0 +1,46 @@
+{
+    "Name": "DeepSkyLog",
+    "Identifier": "728cc59b-a4a0-45cf-89ed-ecd2aa437dd9",
+    "Version": {
+        "Major": "1",
+        "Minor": "0",
+        "Patch": "0",
+        "Build": "8"
+    },
+    "Author": "Karol Bryd",
+    "Homepage": "https://deepskylog.space",
+    "Repository": "https://github.com/karolbe/DeepSkyLog.Plugin",
+    "License": "MPL-2.0",
+    "LicenseURL": "https://www.mozilla.org/en-US/MPL/2.0/",
+    "ChangelogURL": "https://github.com/karolbe/DeepSkyLog.Plugin/blob/master/DeepSkyLog/CHANGELOG.md",
+    "Tags": [
+        "astrophotography",
+        "project",
+        "management",
+        "log",
+        "logging",
+        "tracking",
+        "deepskylog",
+        "imaging",
+        "session"
+    ],
+    "MinimumApplicationVersion": {
+        "Major": "3",
+        "Minor": "0",
+        "Patch": "0",
+        "Build": "2017"
+    },
+    "Descriptions": {
+        "ShortDescription": "Automatically sync your astrophotography session data with DeepSkyLog",
+        "LongDescription": "DeepSkyLog automatically syncs your astrophotography session data with the DeepSkyLog web application.\r\n\r\n\r\n\r\nFeatures:\r\n- Automatic upload of LIGHT frame metadata as images are saved\r\n- Track image quality metrics, guiding performance, and weather conditions\r\n- Register and manage your astrophotography sessions in one place, more on https://deepskylog.space",
+        "FeaturedImageURL": "",
+        "ScreenshotURL": "https://deepskylog.space/images/illustrations/dashboard.jpg",
+        "AltScreenshotURL": "https://deepskylog.space/images/illustrations/dashboard.jpg"
+    },
+    "Installer": {
+        "URL": "https://github.com/karolbe/DeepSkyLog.Plugin/releases/download/1.0.0.8/DeepSkyLog.NINAPlugin.1.0.0.8.zip",
+        "Type": "ARCHIVE",
+        "Checksum": "928EE4D6C8B091D138703EB38861705D4373D55C1B4762A5E5DCE1BCA5C52483",
+        "ChecksumType": "SHA256"
+    }
+}
